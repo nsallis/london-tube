@@ -1,0 +1,10 @@
+    Harrow and Wealdstone, Kenton
+    Warwick Avenue, Paddington
+    Edgware Road (Bakerloo), Marylebone
+    Marylebone, Baker Street
+    Baker Street, Regents Park
+    Regents Park, Oxford Circus
+    Oxford Circus, Piccadilly Circus
+    Piccadilly Circus, Charing Cross
+    Charing Cross, Embankment
+    Embankment, Waterloo
